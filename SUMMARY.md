@@ -9,7 +9,9 @@
 * [October 29, 2025](technovit25/october-29-2025/README.md)
   * [The Agentic Shift](technovit25/october-29-2025/the-agentic-shift.md)
 * [October 30, 2025](technovit25/october-30-2025.md)
-* [October 31, 2025](technovit25/october-31-2025.md)
+* [October 31, 2025](technovit25/october-31-2025/README.md)
+  * [LaserTag](technovit25/october-31-2025/lasertag.md)
+  * [Final Trace](technovit25/october-31-2025/final-trace.md)
 * [November 1, 2025](technovit25/november-1-2025.md)
 * [November 2, 2025](technovit25/november-2-2025.md)
 

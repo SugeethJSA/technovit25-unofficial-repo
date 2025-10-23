@@ -28,8 +28,8 @@ These events are conducted by clubs and others in the run-up to the Tech Fest of
 
 The events on the official days of TechnoVIT'25.
 
-{% content-ref url="technovit25/october-31-2025.md" %}
-[october-31-2025.md](technovit25/october-31-2025.md)
+{% content-ref url="technovit25/october-31-2025/" %}
+[october-31-2025](technovit25/october-31-2025/)
 {% endcontent-ref %}
 
 {% content-ref url="technovit25/november-1-2025.md" %}
