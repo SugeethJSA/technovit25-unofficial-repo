@@ -8,8 +8,8 @@ _We'll be adding in all the events over here related to TechnoVIT'25. Be on the 
 
 These events are conducted by clubs and others in the run-up to the Tech Fest of VIT Chennai. Usually, these events are also classified under TechnoVIT'25.
 
-{% content-ref url="technovit25/october-27-2025.md" %}
-[october-27-2025.md](technovit25/october-27-2025.md)
+{% content-ref url="technovit25/october-27-2025/" %}
+[october-27-2025](technovit25/october-27-2025/)
 {% endcontent-ref %}
 
 {% content-ref url="technovit25/october-28-2025.md" %}

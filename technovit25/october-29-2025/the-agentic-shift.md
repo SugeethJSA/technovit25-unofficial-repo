@@ -39,7 +39,7 @@ _This event follows the unified registration flow provided by VIT Chennai. It al
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/photo 1607000975574 0b425df6975a" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo 1607000975574 0b425df6975a (2)" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -55,7 +55,7 @@ _This event follows the unified registration flow provided by VIT Chennai. It al
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/photo 1650897877751 4446f52a0cb3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo 1650897877751 4446f52a0cb3 (2)" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -71,7 +71,7 @@ This event has its own dedicated WhatsApp group for all communications.
 
 ## POSTER
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### Auto-generated Announcements Page
