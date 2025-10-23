@@ -54,7 +54,7 @@ Each event will have its own communication channel. To join this event's communi
 
 Place the poster here, I'm temporarily using a plcaeholder.
 
-![WhatsApp Image 2025-10-23 at 20.48.12\_3753d44e.jpg](<.gitbook/assets/6930733a 381f 4abc ae3d ad9a4b54e5b4>)
+![WhatsApp Image 2025-10-23 at 20.48.12\_3753d44e.jpg](<../.gitbook/assets/6930733a 381f 4abc ae3d ad9a4b54e5b4>)
 
 {% hint style="success" %}
 ### Auto-generated Announcements Page (or) Club Customised Announcement Page
