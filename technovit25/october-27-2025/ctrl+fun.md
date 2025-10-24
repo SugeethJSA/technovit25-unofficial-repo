@@ -6,14 +6,6 @@
 
 ## Event Details&#x20;
 
-This multi-round event starts with a campus treasure hunt, followed by a Python debugging challenge. Compete in fun games before the final round: a balloon pop game with riddles and tasks. The team with the highest overall score wins!
-
-**Fees**: 50 per Person&#x20;
-
-Team size - 1
-
-_This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!_
-
 {% include "../../.gitbook/includes/register-now.md" %}
 
 ## Organising Committee&#x20;
