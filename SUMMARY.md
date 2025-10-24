@@ -10,6 +10,7 @@
   * [GAME OF DOMAINS: Code Citadel](technovit25/october-27-2025/game-of-domains-code-citadel.md)
   * [404: Clue Not Found](technovit25/october-27-2025/404-clue-not-found.md)
   * [RX: roverX](technovit25/october-27-2025/rx-roverx.md)
+  * [CTRL+FUN](technovit25/october-27-2025/ctrl+fun.md)
 * [October 28, 2025](technovit25/october-28-2025/README.md)
   * [GAME OF DOMAINS: Realm of Minds](technovit25/october-28-2025/game-of-domains-realm-of-minds.md)
   * [Gemini PROMPT-A-THON](technovit25/october-28-2025/gemini-prompt-a-thon.md)
