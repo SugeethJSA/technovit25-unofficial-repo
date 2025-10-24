@@ -32,8 +32,8 @@ The events on the official days of TechnoVIT'25.
 [october-31-2025](technovit25/october-31-2025/)
 {% endcontent-ref %}
 
-{% content-ref url="technovit25/november-1-2025.md" %}
-[november-1-2025.md](technovit25/november-1-2025.md)
+{% content-ref url="technovit25/november-1-2025/" %}
+[november-1-2025](technovit25/november-1-2025/)
 {% endcontent-ref %}
 
 {% content-ref url="technovit25/november-2-2025/" %}
