@@ -12,16 +12,16 @@ These events are conducted by clubs and others in the run-up to the Tech Fest of
 [october-27-2025](technovit25/october-27-2025/)
 {% endcontent-ref %}
 
-{% content-ref url="technovit25/october-28-2025.md" %}
-[october-28-2025.md](technovit25/october-28-2025.md)
+{% content-ref url="technovit25/october-28-2025/" %}
+[october-28-2025](technovit25/october-28-2025/)
 {% endcontent-ref %}
 
 {% content-ref url="technovit25/october-29-2025/" %}
 [october-29-2025](technovit25/october-29-2025/)
 {% endcontent-ref %}
 
-{% content-ref url="technovit25/october-30-2025.md" %}
-[october-30-2025.md](technovit25/october-30-2025.md)
+{% content-ref url="technovit25/october-30-2025/" %}
+[october-30-2025](technovit25/october-30-2025/)
 {% endcontent-ref %}
 
 ### TechnoVIT'25 Events
@@ -36,6 +36,6 @@ The events on the official days of TechnoVIT'25.
 [november-1-2025.md](technovit25/november-1-2025.md)
 {% endcontent-ref %}
 
-{% content-ref url="technovit25/november-2-2025.md" %}
-[november-2-2025.md](technovit25/november-2-2025.md)
+{% content-ref url="technovit25/november-2-2025/" %}
+[november-2-2025](technovit25/november-2-2025/)
 {% endcontent-ref %}
