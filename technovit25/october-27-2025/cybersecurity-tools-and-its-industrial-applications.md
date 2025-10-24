@@ -17,27 +17,7 @@ Includes industry case studies and career insights into top cybersecurity certif
 👨‍💼 **Mr. Ajinkya Lohakare**\
 Chief Technology Officer and Founder, Ditto Security, Bengaluru
 
-{% columns %}
-{% column %}
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th>Fees</th><th></th><th></th></tr></thead><tbody><tr><td><h3>Register Now</h3></td><td><strong>₹100</strong></td><td><em>This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!</em></td><td><a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a></td></tr></tbody></table>
-
-
-
-#### Register Now
-
-**Fees**:
-
-* **₹100**
-
-_This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!_
-
-<a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/photo 1607000975574 0b425df6975a (1)" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th>Fees</th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Register Now</h3></td><td><strong>₹100</strong></td><td><em>This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!</em></td><td><a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a></td><td><a href="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbyUyMGZvciUyMGl0fGVufDB8fHx8MTc2MTMwMTA2N3ww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbyUyMGZvciUyMGl0fGVufDB8fHx8MTc2MTMwMTA2N3ww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ## Organising Committee Information
 
