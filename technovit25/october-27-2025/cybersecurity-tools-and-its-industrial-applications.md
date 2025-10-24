@@ -19,6 +19,8 @@ Chief Technology Officer and Founder, Ditto Security, Bengaluru
 
 {% columns %}
 {% column %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th>Fees</th><th></th><th></th></tr></thead><tbody><tr><td><h3>Register Now</h3></td><td><strong>₹100</strong></td><td><em>This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!</em></td><td><a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a></td></tr></tbody></table>
+
 #### Register Now
 
 **Fees**:
