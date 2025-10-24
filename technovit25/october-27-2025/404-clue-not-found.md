@@ -20,27 +20,7 @@ Crack clues to unlock your problem statement, domain, and theme, leading to the 
 
 🎧 Tune in. Take charge. #FeelTheRhythm with VOICE-IT 🎶
 
-{% columns %}
-{% column %}
-#### Register Now
-
-**Fees**:
-
-* **₹300 per team**
-
-**Team Size:**
-
-* **2 - 3 Members**
-
-_This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!_
-
-<a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxyZWdpc3RlcnxlbnwwfHx8fDE3NjEyNDU2MDF8MA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th>Fees</th><th>Team Size</th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>Register Now</h4></td><td><strong>₹300 per team</strong></td><td><em>2-3 Members.</em> </td><td><em>This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!</em></td><td><a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a></td><td><a href="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxyZWdpc3RlcnxlbnwwfHx8fDE3NjEyNDU2MDF8MA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxyZWdpc3RlcnxlbnwwfHx8fDE3NjEyNDU2MDF8MA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ### Organising Committee Information
 
