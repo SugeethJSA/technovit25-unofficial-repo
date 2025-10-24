@@ -6,6 +6,8 @@
 
 ## Event Details&#x20;
 
+This multi-round event starts with a campus treasure hunt, followed by a Python debugging challenge. Compete in fun games before the final round: a balloon pop game with riddles and tasks. The team with the highest overall score wins!
+
 {% include "../../.gitbook/includes/register-now.md" %}
 
 ## Organising Committee&#x20;
