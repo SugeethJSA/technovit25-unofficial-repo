@@ -67,7 +67,7 @@ Each event will have its own communication channel. To join this event's communi
 
 ### POSTER
 
-
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-10-24 at 22.50.52_25c31ff9.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### Auto-generated Page
