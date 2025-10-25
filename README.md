@@ -39,3 +39,9 @@ The events on the official days of TechnoVIT'25.
 {% content-ref url="technovit25/november-2-2025/" %}
 [november-2-2025](technovit25/november-2-2025/)
 {% endcontent-ref %}
+
+### Want to view the events code base?
+
+Visit our GitHub repo! To add events, refer the developer section of this website or [click here](https://app.gitbook.com/o/TBpxXZ9zGvWdncVRuLeY/s/jNWOmfGZ7pBpIcNSqO0L/).
+
+{% embed url="https://github.com/SugeethJSA/technovit25-unofficial-repo" %}
