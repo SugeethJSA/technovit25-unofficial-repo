@@ -28,6 +28,7 @@
   * [MATLAB-A-THON](technovit25/october-28-2025/matlab-a-thon.md)
   * [IGNITE 2025](technovit25/october-28-2025/ignite-2025.md)
   * [IBM Qiskit Fall Fest 2025](technovit25/october-28-2025/ibm-qiskit-fall-fest-2025.md)
+  * [8 Minutes to Win](technovit25/october-28-2025/8-minutes-to-win.md)
 * [October 29, 2025](technovit25/october-29-2025/README.md)
   * [The Agentic Shift](technovit25/october-29-2025/the-agentic-shift.md)
   * [STRANGER CLUES](technovit25/october-29-2025/stranger-clues.md)
