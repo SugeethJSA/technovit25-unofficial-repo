@@ -17,6 +17,8 @@ layout:
 
 # Hack Club
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/hc logo (Small).jpg" alt="" width="120"><figcaption></figcaption></figure></div>
+
 <h2 align="center"><mark style="color:red;">Hack</mark>Club</h2>
 
 <p align="center"><em>We, the members of Hack Club, proudly present our</em> <br><em>flagship events for TechnoVIT.</em></p>
