@@ -32,6 +32,7 @@
   * [The Agentic Shift](technovit25/october-29-2025/the-agentic-shift.md)
   * [STRANGER CLUES](technovit25/october-29-2025/stranger-clues.md)
   * [QUANTUM MEETS AI: THE RISE OF QUANTUM DEEP LEARNING](technovit25/october-29-2025/quantum-meets-ai-the-rise-of-quantum-deep-learning.md)
+  * [HACK-HER: ALL WOMEN HACKATHON](technovit25/october-29-2025/hack-her-all-women-hackathon.md)
 * [October 30, 2025](technovit25/october-30-2025/README.md)
   * [ROS2 Bootcamp](technovit25/october-30-2025/ros2-bootcamp.md)
   * [CATALYST CASE CHALLENGE](technovit25/october-30-2025/catalyst-case-challenge.md)
