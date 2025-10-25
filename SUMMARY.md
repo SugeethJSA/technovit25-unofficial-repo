@@ -46,11 +46,15 @@
   * [DecodeX](technovit25/october-31-2025/decodex.md)
   * [CODYSSEY](technovit25/october-31-2025/codyssey.md)
   * [LUMINOVA](technovit25/october-31-2025/luminova.md)
+  * [Debug the Drama](technovit25/october-31-2025/debug-the-drama.md)
+  * [SKETCH2STAGE](technovit25/october-31-2025/sketch2stage.md)
 * [November 1, 2025](technovit25/november-1-2025/README.md)
   * [Math TALENT TEST](technovit25/november-1-2025/math-talent-test.md)
   * [T MINUS ZERO](technovit25/november-1-2025/t-minus-zero.md)
   * [CIRCUIT-A-THON](technovit25/november-1-2025/circuit-a-thon.md)
   * [Game Jam](technovit25/november-1-2025/game-jam.md)
+  * [Code Golf](technovit25/november-1-2025/code-golf.md)
+  * [WHODUNIT.EXE](technovit25/november-1-2025/whodunit.exe.md)
 * [November 2, 2025](technovit25/november-2-2025/README.md)
   * [GAME OF DOMAINS: Fortress of Shadows](technovit25/november-2-2025/game-of-domains-fortress-of-shadows.md)
   * [COOKOFF 2.0](technovit25/november-2-2025/cookoff-2.0.md)
@@ -62,3 +66,7 @@
 ## Templates
 
 * [Template Event Page](templates/template-event-page.md)
+
+## Club Showcase
+
+* [Hack Club](club-showcase/hack-club.md)
