@@ -1,4 +1,5 @@
 ---
+description: Here are the events scheduled for the second day of TechnoVIT'25.
 icon: '2'
 ---
 
