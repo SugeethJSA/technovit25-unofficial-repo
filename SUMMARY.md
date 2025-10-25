@@ -36,6 +36,7 @@
 * [October 30, 2025](technovit25/october-30-2025/README.md)
   * [ROS2 Bootcamp](technovit25/october-30-2025/ros2-bootcamp.md)
   * [CATALYST CASE CHALLENGE](technovit25/october-30-2025/catalyst-case-challenge.md)
+  * [CAD-A-THON](technovit25/october-30-2025/cad-a-thon.md)
 * [October 31, 2025](technovit25/october-31-2025/README.md)
   * [LaserTag](technovit25/october-31-2025/lasertag.md)
   * [Final Trace](technovit25/october-31-2025/final-trace.md)
