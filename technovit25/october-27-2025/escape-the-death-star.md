@@ -1,22 +1,22 @@
 # Escape the Death Star
 
+
+
 ### Helpful Information
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>📅 Date</strong></td><td>27TH OCT</td></tr><tr><td><strong>⏱ Duration / Time</strong></td><td>2:00 PM - 5:00 PM</td></tr><tr><td><strong>📍 Venue</strong></td><td>Clock Court</td></tr><tr><td><strong>👤 Organiser</strong></td><td>POP CULTURE CLUB</td></tr><tr><td><strong>🅰️ Type</strong></td><td>Digital Escape Room</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>📅 Date</strong></td><td>27/10/2025</td></tr><tr><td><strong>⏱ Duration / Time</strong></td><td>2:00 PM - 5:00 PM</td></tr><tr><td><strong>📍 Venue</strong></td><td>Clock Court</td></tr><tr><td><strong>👤 Organiser</strong></td><td>POP CULTURE CLUB</td></tr><tr><td><strong>🅰️ Type</strong></td><td>Digital Escape Room</td></tr></tbody></table>
 
 ### Event Details
 
-**Escape the Death Star** is a Star Wars–themed digital escape room where participants solve layers of puzzles (cryptography, codes, logic) to bypass Imperial security. Each level unlocks clues about the Death Star - mixing tech challenges with pop culture lore.
+A Star Wars themed digital escape room where players solve tech-based puzzles and uncover codes to hack Imperial systems and uncover secrets of the Death Star.]
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th>Fees &#x26; Team Size</th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>Register Now</h4></td><td><strong>Solo - ₹50</strong><br><strong>Duo - ₹80</strong></td><td><em>This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!</em></td><td><a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a></td><td><a href="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbyUyMGZvciUyMGl0fGVufDB8fHx8MTc2MTMwMTA2N3ww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbyUyMGZvciUyMGl0fGVufDB8fHx8MTc2MTMwMTA2N3ww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th>Fees &#x26; Team Size</th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>Register Now</h4></td><td><strong>Fee: Rs.50 - SOLO</strong><br><strong>Fee: Rs.80 - DUO</strong></td><td><em>This event follows the unified registration flow provided by VIT Chennai. It allows participants from inside VIT and outside VIT too!</em></td><td><a href="https://chennaievents.vit.ac.in/technovit/" class="button primary" data-icon="rocket-launch">Register</a></td><td><a href="https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbyUyMGZvciUyMGl0fGVufDB8fHx8MTc2MTMwMTA2N3ww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1607000975574-0b425df6975a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnbyUyMGZvciUyMGl0fGVufDB8fHx8MTc2MTMwMTA2N3ww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ### Organising Committee Information
 
 #### Student Coordinators
 
-_(Info from previous Pop Culture Club event)_
-
-<table data-card-size="large" data-view="cards"><thead><tr><th>Name</th><th>Phone</th><th></th></tr></thead><tbody><tr><td>Aditi M</td><td>8438827856</td><td><a href="tel:8438827856" class="button secondary">Call Now</a></td></tr><tr><td>Rakesh Raja</td><td>9360954855</td><td><a href="tel:9360954855" class="button secondary">Call Now</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th>Name</th><th>Phone</th><th></th></tr></thead><tbody><tr><td>Delicia Rachel</td><td>9962109791</td><td><a href="tel:9962109791" class="button secondary">Call Now</a></td></tr><tr><td>Sharon R</td><td>9566033056</td><td><a href="tel:9566033056" class="button secondary">Call Now</a></td></tr></tbody></table>
 
 #### Faculty Coordinators
 
@@ -41,7 +41,7 @@ Each event will have its own communication channel. To join this event's communi
 
 ### POSTER
 
-No poster was provided for this event.
+<figure><img src="../../.gitbook/assets/escape_the_death_star (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### Auto-generated Page
