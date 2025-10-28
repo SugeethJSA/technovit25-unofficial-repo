@@ -34,6 +34,11 @@
   * [STRANGER CLUES](technovit25/october-29-2025/stranger-clues.md)
   * [QUANTUM MEETS AI: THE RISE OF QUANTUM DEEP LEARNING](technovit25/october-29-2025/quantum-meets-ai-the-rise-of-quantum-deep-learning.md)
   * [HACK-HER: ALL WOMEN HACKATHON](technovit25/october-29-2025/hack-her-all-women-hackathon.md)
+  * [Quantity Surveying with PlanSwift](technovit25/october-29-2025/quantity-surveying-with-planswift.md)
+  * [Aero Vision: AERIAL SURVEY USING DRONES](technovit25/october-29-2025/aero-vision-aerial-survey-using-drones.md)
+  * [AI + Art = Your Tote](technovit25/october-29-2025/ai-+-art-your-tote.md)
+  * [CATALYST CASE CHALLENGE](technovit25/october-29-2025/catalyst-case-challenge.md)
+  * [code MAFIA](technovit25/october-29-2025/code-mafia.md)
 * [October 30, 2025](technovit25/october-30-2025/README.md)
   * [ROS2 Bootcamp](technovit25/october-30-2025/ros2-bootcamp.md)
   * [CATALYST CASE CHALLENGE](technovit25/october-30-2025/catalyst-case-challenge.md)
@@ -65,6 +70,7 @@
   * [DESIGN A FACTORY](technovit25/november-2-2025/design-a-factory.md)
   * [ANGRY BIRDS STEM](technovit25/november-2-2025/angry-birds-stem.md)
   * [IdeaXchange](technovit25/november-2-2025/ideaxchange.md)
+  * [ANIMATHON](technovit25/november-2-2025/animathon.md)
 
 ## Templates
 
