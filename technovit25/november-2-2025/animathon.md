@@ -40,7 +40,7 @@ Stay connected for all announcements, clarifications, and event updates. Join th
 
 ### POSTER
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### Auto-generated Page

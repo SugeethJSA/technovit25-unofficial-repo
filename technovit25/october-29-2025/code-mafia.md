@@ -65,7 +65,7 @@ To collaborate 🤝or betray other teams😈, join the Code Mafia WhatsApp Group
 
 ### POSTER
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### Auto-generated Page

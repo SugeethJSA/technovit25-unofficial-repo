@@ -63,7 +63,7 @@ Each event will have its own communication channel. To join this event's communi
 
 ### POSTER
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 #### Auto-generated Page
